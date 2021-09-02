@@ -1,0 +1,8 @@
+{
+	"name": "PL_CSVFiles",
+	"properties": {
+		"annotations": [
+			"MyFiestPipeline"
+		]
+	}
+}
