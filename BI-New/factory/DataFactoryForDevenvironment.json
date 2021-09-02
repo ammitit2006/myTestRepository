@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryForDevenvironment",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e37bc0a5-c8a9-480a-8d63-2ad2fb4c0355",
+		"tenantId": "eabe3218-ea91-4ce4-846f-21ea8c57ce43"
+	}
+}
